@@ -1,7 +1,7 @@
 module.exports = {
   s3: {
-    accessKeyId: 'AKIASFIXCPWSHWICKCL2', // TODO
-    secretAccessKey: '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', // TODO
+    accessKeyId: 'AKIASFIXCPWSCOJH3X3D', // TODO
+    secretAccessKey: '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', // TODO
     endpoint: 's3.eu-west-1.amazonaws.com', // TODO
     bucket: 'esgi-cloud-exam-bucket-21052', // TODO
   },
